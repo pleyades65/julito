@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     // dañe el codigo
+    // otro cambio
     public class CartItem
     {
         [Key]
